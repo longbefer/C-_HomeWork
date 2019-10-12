@@ -1,5 +1,9 @@
 # C-_HomeWork
+
 这是C#的一次作业，主要功能包括基本加减乘除运算和连接字符串。 
+程序使用Visual Studio 2019完成设计，基于.NET 4.7.2
+
+![运行结果](/sources/img.jpg "Optional title")
 
  要求如下： 
 
